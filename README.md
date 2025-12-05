@@ -3,8 +3,10 @@
 A simple, offline-capable inventory management system built with Python and Tkinter. Perfect for small businesses to track products, purchases, sales, and debts.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20Mac-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+> **Note:** The `.exe` download is for Windows. Linux/Mac users can run from source (see Option 1).
 
 ## Features
 
