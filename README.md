@@ -47,11 +47,19 @@ pip install pandas openpyxl reportlab
 python gui_app.py
 ```
 
-### Option 2: Use Standalone EXE
+### Option 2: Build Standalone EXE
 
-1. Download `InventoryManager.exe` from the `dist` folder
-2. Place it in any directory
-3. Double-click to run
+1. Clone the repository and install dependencies (see Option 1)
+2. Install PyInstaller:
+```bash
+pip install pyinstaller
+```
+3. Build the executable:
+```bash
+pyinstaller --onefile --windowed --name "InventoryManager" gui_app.py
+```
+4. Find the exe in the `dist` folder
+5. Copy `InventoryManager.exe` anywhere and run it
 
 ## Building the Executable
 
