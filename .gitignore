@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+
+# Database and generated files
+inventory_database.xlsx
+invoices/
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
