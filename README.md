@@ -136,10 +136,5 @@ The application uses **GHC (Ghana Cedis)** as the currency.
 - openpyxl
 - reportlab
 
-## License
 
-MIT License - Feel free to use and modify for your needs.
-
-## Author
-
-Jake Dev Official
+**Developed by JAKEDev.**
